@@ -32,11 +32,11 @@ Python was used to fetch the armed conflict data using the API, and process and 
 ### Combined Map
 ![Combined Map](Maps_Images/Spatio_Temporal_Analysis_of_Armed_Clash_Events_and_Fatalities_in_Nigeria.png "Combined Map")
 
-### Fatalities Map with highlights on Borno and Zamfara States
+### Fatalities Map with Highlights on Borno and Zamfara States
 
 ![Combined Map](Maps_Images/Fatalities_Screenshots.png "Fatalities Map with highlights on Borno and Zamfara States")
 
-### Overtaken and Regained Town- New Marte and Nguro Soye in Borno State
+### Overtaken and Regained Towns - New Marte and Nguro Soye in Borno State
 ![Overtaken and Regained Town - New Marte and Nguro Soye](Maps_Images/Overtaken_and_Regained_Town_New_Marte_and_Nguro_Soye.png "Overtaken and Regained Town- New Marte and Nguro Soye in Borno State")
 
 ## Findings and Conclusion
