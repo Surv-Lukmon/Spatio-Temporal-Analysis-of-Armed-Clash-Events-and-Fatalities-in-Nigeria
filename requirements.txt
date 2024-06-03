@@ -1,0 +1,11 @@
+python
+ipykernel
+ipython
+requests
+pandas 
+numpy 
+geopandas 
+matplotlib
+seaborn
+folium
+
