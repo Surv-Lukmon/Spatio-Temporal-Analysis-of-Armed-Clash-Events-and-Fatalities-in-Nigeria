@@ -15,7 +15,7 @@ The following analysis objectives were set out:
 5. Locations and proportions of the overtaken & regained territories over 9 years.
 
 ## Requirements
-Because of data policy, I am not permitted to share or redistribute the data. So, I did not include the data in this repository. However, a code snippet is included in the notebook that can fetch the data using the API.
+Because of data policy, I am not permitted to share or redistribute the data. I requested the data for the 2024 GIS Certification Institute Map Contest. So, I did not include the data in this repository. However, a code snippet is included in the notebook that can fetch the data using the ACLED API.
 
 First, to have access to the ACLED data and the API, it is required to create an account, preferably with an institution or organization email address. You can register [here](https://developer.acleddata.com/). A unique API key would allocated to your account. The ACLED API guide can be found [here](https://acleddata.com/knowledge-base/acled-access-guide/). The list of packages used for these analyses is in the "requirements.txt" file, which can be installed using the conda:
 
@@ -28,10 +28,15 @@ Python was used to fetch the armed conflict data using the API, and process and 
 
 
 ## Results
+
+### Combined Map
 ![Combined Map](Maps_Images/Spatio_Temporal_Analysis_of_Armed_Clash_Events_and_Fatalities_in_Nigeria.png "Combined Map")
+
+### Fatalities Map with highlights on Borno and Zamfara States
 
 ![Combined Map](Maps_Images/Fatalities_Screenshots.png "Fatalities Map with highlights on Borno and Zamfara States")
 
+### Overtaken and Regained Town- New Marte and Nguro Soye in Borno State
 ![Overtaken and Regained Town - New Marte and Nguro Soye](Maps_Images/Overtaken_and_Regained_Town_New_Marte_and_Nguro_Soye.png "Overtaken and Regained Town- New Marte and Nguro Soye in Borno State")
 
 ## Findings and Conclusion
