@@ -33,7 +33,6 @@ Python was used to fetch the armed conflict data using the API, and process and 
 ![Combined Map](Maps_Images/Spatio_Temporal_Analysis_of_Armed_Clash_Events_and_Fatalities_in_Nigeria.png "Combined Map")
 
 ### Fatalities Map with Highlights on Borno and Zamfara States
-
 ![Combined Map](Maps_Images/Fatalities_Screenshots.png "Fatalities Map with highlights on Borno and Zamfara States")
 
 ### Overtaken and Regained Towns - New Marte and Nguro Soye in Borno State
@@ -43,14 +42,14 @@ Python was used to fetch the armed conflict data using the API, and process and 
 1. Temporal variations in the armed clash events and fatalities between 2010 and 2023.
 
    * Armed clash events and fatalities have been on the rise since 2016.
-   * The five highest numbers of armed clashes were in 2021, 2023, 2022, 2020, and 2019.
-   * The five highest numbers of deaths due to armed clashes were recorded in 2021, 2022, 2023, 2020, and 2014.
+   * The five highest armed clashes were in 2021, 2023, 2022, 2020, and 2019.
+   * The five highest deaths from armed clashes were recorded in 2021, 2022, 2023, 2020, and 2014.
 
-2. States with the highest armed clash events and fatalities between 2010 and 2023?
+2. States with the highest armed clash events and fatalities between 2010 and 2023.
    * States with the highest armed clash events: Borno, Kaduna, Zamfara, Katsina, and Benue. 
    * States with the highest fatalities: Borno, Zamfara, Niger, Adamawa, and Kaduna.
    * All these States are in the northen part of Nigeria.
-   * Thus Borno State and Zamfara are the geographic hotspots of armed clashes in Nigeria.
+   * Thus, Borno State and Zamfara State are Nigeria's geographic hotspots of armed clashes.
 
 3. Correlation between the armed clash events and the fatalities.
     * There is a high positive correlation between armed clash events and fatalities with a score of 0.88.
